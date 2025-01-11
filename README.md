@@ -3,7 +3,7 @@
 
 Projeto com o objetivo de gerar um ebook digital sobre a utilização da ferramentas de IA no desenvolvimento de requisitos em projetos ágeis.
 
-<a > 📕Clique aqui para ler</a>
+<a > EbookAgilidadeIARequisitos.pdf📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
